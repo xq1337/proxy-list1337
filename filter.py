@@ -5,7 +5,8 @@ response = requests.get(url)
 
 if response.status_code == 200:
     lines = response.text.splitlines()
-    filtered_lines = [line for line in lines if "finland" in line.lower() or "poland" in line.lower()]
+    # Теперь ищем только "netherlands"
+    filtered_lines = [line for line in lines if "netherlands" in line.lower()]
     
     with open("filtered_vless.txt", "w") as f:
         f.write("\n".join(filtered_lines))
