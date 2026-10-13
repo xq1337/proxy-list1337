@@ -1,2 +1,0 @@
-vless://a72b971f-2163-48d4-b3a3-6173cee58586@185.86.145.183:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=formatno.com&path=%2Fnl7ws&security=tls&sni=formatno.com&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%2384
-vless://a72b971f-2163-48d4-b3a3-6173cee58586@185.86.145.183:443?alpn=http%2F1.1&encryption=none&fp=random&host=formatno.com&path=%2Fnl7ws&security=tls&sni=formatno.com&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%2385
